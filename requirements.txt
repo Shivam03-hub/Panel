@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+groq
+langgraph
+langsmith
+pydantic
+python-dotenv
+python-jose[cryptography]
+bcrypt
+sqlalchemy
+mcp[cli]<2
+streamlit
+requests
